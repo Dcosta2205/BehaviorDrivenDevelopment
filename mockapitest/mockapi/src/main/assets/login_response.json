@@ -1,0 +1,25 @@
+{
+  "loginResponse": [
+    {
+      "userId": "user1",
+      "firstName": "Samyad",
+      "lastName": "Jain",
+      "userName": "sam",
+      "password": "sam123"
+    },
+    {
+      "userId": "user2",
+      "firstName": "Ashish",
+      "lastName": "Agre",
+      "userName": "aa",
+      "password": "aa123"
+    },
+    {
+      "userId": "user3",
+      "firstName": "Sampada",
+      "lastName": "Salimath",
+      "userName": "ss",
+      "password": "ss123"
+    }
+  ]
+}

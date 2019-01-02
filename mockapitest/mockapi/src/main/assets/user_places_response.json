@@ -1,0 +1,193 @@
+{
+  "users": [
+    {
+      "userId": "user1",
+      "numOfPlaces": 6,
+      "phoneNumber": 9164949848,
+      "places": [
+        {
+          "rating": 3,
+          "id": "place1",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 4,
+          "id": "place2",
+          "place": "Mysore Palace",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mysore_Palace.jpg",
+          "desc": "Mysore Palace is a historical palace and a royal residence at Mysore in the Indian State of Karnataka. It is the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore. The palace is in the centre of Mysore, and faces the Chamundi Hills eastward. Mysore is commonly described as the 'City of Palaces', and there are seven palaces including this one; however, 'Mysore Palace' refers specifically to this one within the Old Fort.!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 2,
+          "id": "place3",
+          "place": "Bangalore Palace",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bangalore_Palace.jpg",
+          "desc": "The property was purchased from Rev. Garrett in 1873 AD at a cost of Rs. 40,000 by the British Guardians of the minor Maharaja Chamarajendra Wadiyar X using his personal funds. They were in charge of his education and administrative training to ready him to take over his reign in 1881 AD. As the young Maharaja did not have a suitable place to stay during his training in Bengaluru, this property was purchased and transformed.",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 1,
+          "id": "place4",
+          "place": "Cubbon Park",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cubbon_Park_W.jpg",
+          "desc": "The park is accessible from M.G. Road, Kasturba road, Hudson Circle and Ambedkar Veedhi (Road). The motorable roads which run through the park are allowed for light motor vehicles only. All locations of the park are accessible through walking paths. The Park is open to the public at all times but the roads around the park are closed for traffic from 5:00 to 8:00 am every day to provide more safety and fresh environment for morning walkers and exercisers!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 5,
+          "id": "place5",
+          "place": "Agara Lake",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Agara_lake.jpg",
+          "desc": "The lake is filled by the water of Madivala lake, through the Raja Kaluve. Surplus water is drained to the Bellandur Lake.",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place6",
+          "place": "Mumbai Airport",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mumbai_Airport.jpg",
+          "desc": "Mumbai has one unique Airport, the Chattrapathi Shivaji International Airport. In the past, Mumbai Airport was known as Sahar International Airport, while some locals still use this name nowadays along with Santacruz Airport given its location in the suburbs of Sanatacruz and Sahar village in Andheri and the fact that in the past were two independent airports. It is the second busiest airport in India after Delhi Airport. The airport is located in Andheri, 8 km north of downtown Mumbai.",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        }
+      ]
+    },
+    {
+      "userId": "user2",
+      "numOfPlaces": 3,
+      "phoneNumber": 9164949848,
+      "places": [
+        {
+          "rating": 3,
+          "id": "place1",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place2",
+          "place": "Mysore Palace",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mysore_Palace.jpg",
+          "desc": "Mysore Palace is a historical palace and a royal residence at Mysore in the Indian State of Karnataka. It is the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore. The palace is in the centre of Mysore, and faces the Chamundi Hills eastward. Mysore is commonly described as the 'City of Palaces', and there are seven palaces including this one; however, 'Mysore Palace' refers specifically to this one within the Old Fort.!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place6",
+          "place": "Mumbai Airport",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mumbai_Airport.jpg",
+          "desc": "Mumbai has one unique Airport, the Chattrapathi Shivaji International Airport. In the past, Mumbai Airport was known as Sahar International Airport, while some locals still use this name nowadays along with Santacruz Airport given its location in the suburbs of Sanatacruz and Sahar village in Andheri and the fact that in the past were two independent airports. It is the second busiest airport in India after Delhi Airport. The airport is located in Andheri, 8 km north of downtown Mumbai.",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        }
+      ]
+    },
+    {
+      "userId": "user3",
+      "numOfPlaces": 12,
+      "phoneNumber": 9164949848,
+      "places": [
+        {
+          "rating": 5,
+          "id": "place5",
+          "place": "Agara Lake",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Agara_lake.jpg",
+          "desc": "The lake is filled by the water of Madivala lake, through the Raja Kaluve. Surplus water is drained to the Bellandur Lake.",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place2",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place6",
+          "place": "Mumbai Airport",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mumbai_Airport.jpg",
+          "desc": "Mumbai has one unique Airport, the Chattrapathi Shivaji International Airport. In the past, Mumbai Airport was known as Sahar International Airport, while some locals still use this name nowadays along with Santacruz Airport given its location in the suburbs of Sanatacruz and Sahar village in Andheri and the fact that in the past were two independent airports. It is the second busiest airport in India after Delhi Airport. The airport is located in Andheri, 8 km north of downtown Mumbai.",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 1,
+          "id": "place4",
+          "place": "Cubbon Park",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cubbon_Park_W.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place5",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place6",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place7",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place8",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place9",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place10",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place11",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        },
+        {
+          "rating": 3,
+          "id": "place12",
+          "place": "Taj Mahal",
+          "img": "https://www.tajmahal.gov.in/images/slider/slider.jpg",
+          "desc": "One knows that ‘The Taj’ is one amongst the World’s Wonders!One knows that it is one amongst the UNESCO World Heritage Sites!!One knows The Taj as a legend of eternal love of an Emperor for his favourite Queen!!!",
+          "comments": "If one has a heart that beats and that beat throbs to seek, the purity of love in galore! Surely one deserves a visit to ‘The Taj’, as much as ‘The Taj’ deserves your visit once, and more!"
+        }
+      ]
+    }
+  ]
+}

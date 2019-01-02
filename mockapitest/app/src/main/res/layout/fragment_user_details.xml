@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:clickable="true"
+    android:contentDescription="@string/user_details_content_description"
+    android:focusable="true"
+    android:padding="@dimen/dp_16">
+
+    <TextView
+        android:id="@+id/tv_form_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:tag="@string/user_details_title_tag"
+        android:text="@string/user_details"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/sp_24"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_user_first_name_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_form_title"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:layout_marginEnd="@dimen/dp_8"
+        android:gravity="center"
+        android:text="@string/username_first_name"
+        android:textSize="@dimen/sp_16" />
+
+    <TextView
+        android:id="@+id/tv_user_first_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/tv_form_title"
+        android:gravity="center"
+        android:textSize="@dimen/sp_16"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_user_last_name_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:layout_below="@+id/tv_user_first_name_header"
+        android:layout_marginEnd="@dimen/dp_8"
+        android:gravity="center"
+        android:text="@string/username_last_name"
+        android:textSize="@dimen/sp_16" />
+
+    <TextView
+        android:id="@+id/tv_user_last_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/tv_user_first_name_header"
+        android:gravity="center"
+        android:textSize="@dimen/sp_16"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_user_phone_no_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_user_last_name_header"
+        android:layout_marginEnd="@dimen/dp_8"
+        android:gravity="center"
+        android:text="@string/user_phone_no"
+        android:textSize="@dimen/sp_16" />
+
+    <TextView
+        android:id="@+id/tv_user_phone_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/tv_user_last_name_header"
+        android:gravity="center"
+        android:textSize="@dimen/sp_16"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tv_user_place_detail_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_user_phone_no_header"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:layout_marginTop="@dimen/dp_16"
+        android:text="@string/user_place_title"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/sp_24"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_user_place_visited_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_user_place_detail_title"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:gravity="center"
+        android:text="@string/num_of_places_visited"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/sp_14"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_user_place_visited"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/tv_user_place_detail_title"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:gravity="end"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/sp_14"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_user_feeds"
+        android:contentDescription="@string/place_details_recycler_view_content_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_user_place_visited_header" />
+
+
+</RelativeLayout>

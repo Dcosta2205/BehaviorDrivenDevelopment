@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MockTestApp</string>
+    <string name="username">UserName</string>
+    <string name="username_first_name">First Name</string>
+    <string name="username_last_name">Last Name</string>
+    <string name="user_phone_no">Phone No</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="error_in_login">Error in login</string>
+    <string name="sign_in">SignIn</string>
+    <string name="user_details">User Details</string>
+    <string name="user_place_title">User Places</string>
+    <string name="place_name">Place Name :</string>
+    <string name="place_rating">Place Rating :</string>
+    <string name="num_of_places_visited">Num of places visited</string>
+    <string name="place_description">Place Description :</string>
+    <string name="place_comment">Place Comment :</string>
+    <string name="place_details">Place Details</string>
+    <string name="hint_new_password">Enter new password</string>
+    <string name="text_password_mismatch">Passwords mismatch</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_reset_password">Reset</string>
+    <string name="reset_content_description">Reset Password screen</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="msg_email_error">Please enter your email</string>
+    <string name="msg_password_error">Please enter your password</string>
+    <string name="something_went_wrong_error">Something went wrong!</string>
+    <string name="no_records_found_error">Not records found!</string>
+    <string name="username_or_password_mismatch">Username or Password mismatch.</string>
+    <string name="user_details_content_description">User Details Fragment</string>
+    <string name="user_details_title_tag">User Details Tag</string>
+    <string name="place_details_content_description">Place Details Fragment Content Description</string>
+    <string name="place_details_recycler_view_content_description">Place Details Recycler View Content Description</string>
+    <string name="desc_fingerprint">Please keep your finger to verify</string>
+    <string name="title_fingerprint">One touch sign in</string>
+    <string name="message_no_finger_print_hardware_found">Your Device does not have a Fingerprint Sensor</string>
+    <string name="message_enroll_finger_prints">Register at least one fingerprint in Settings</string>
+    <string name="message_lock_screen_security_not_enabled">Lock screen security not enabled in Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
